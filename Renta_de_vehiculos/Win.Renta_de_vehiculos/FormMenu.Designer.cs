@@ -93,14 +93,14 @@
             // facturaToolStripMenuItem
             // 
             this.facturaToolStripMenuItem.Name = "facturaToolStripMenuItem";
-            this.facturaToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
-            this.facturaToolStripMenuItem.Text = "factura";
+            this.facturaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.facturaToolStripMenuItem.Text = "Factura";
             this.facturaToolStripMenuItem.Click += new System.EventHandler(this.facturaToolStripMenuItem_Click);
             // 
             // contactoToolStripMenuItem
             // 
             this.contactoToolStripMenuItem.Name = "contactoToolStripMenuItem";
-            this.contactoToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.contactoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.contactoToolStripMenuItem.Text = "Contacto";
             this.contactoToolStripMenuItem.Click += new System.EventHandler(this.contactoToolStripMenuItem_Click);
             // 
